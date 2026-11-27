@@ -4,7 +4,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%40DownloadX--id-dc2626?style=flat-square)](https://www.youtube.com/@DownloadX-id)
 [![Telegram](https://img.shields.io/badge/Telegram-%40downloadx__id__bot-0284c7?style=flat-square)](https://t.me/downloadx_id_bot)
 
-**DownloadX.id** adalah direktori kurasi perangkat lunak gratis, *open-source*, dan *freeware* legal untuk **Windows, macOS, dan Linux** di Indonesia. Seluruh tautan unduhan diarahkan langsung ke server atau repositori resmi pengembang tanpa *repack*, tanpa *installer wrapper*, dan dilengkapi verifikasi checksum **SHA-256**.
+**DownloadX.id** adalah direktori download software gratis, *open-source*, dan *freeware* legal untuk **Windows, macOS, dan Linux** di Indonesia. Seluruh tautan unduhan diarahkan langsung ke server atau repositori resmi pengembang tanpa *repack*, tanpa *installer wrapper*, dan dilengkapi verifikasi checksum **SHA-256**.
 
 ## Prinsip Kurasi
 
